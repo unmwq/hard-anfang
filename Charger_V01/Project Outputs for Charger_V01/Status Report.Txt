@@ -1,11 +1,12 @@
-Output: Simple BOM
-Type  : SimpleBOM
-From  : Variant [[No Variations]] of Project [Charger_V01.PrjPcb]
-   Generated File[Chargerv01.BOM]
-   Generated File[Chargerv01.CSV]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Charger_V01.PrjPcb]
+   Generated File[Chargerv01.TXT]
+   Generated File[Chargerv01.LDP]
+   Generated File[Chargerv01.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 16:09:19 On 2017/7/28
+Finished Output Generation At 0:19:47 On 2017/8/3

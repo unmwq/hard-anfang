@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Chargerv01.PcbDoc   2017/8/3  0:19:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Chargerv01.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             309       PTH        58.58inch (1487.88mm)
+T2      20mil (0.5mm)                                             Round             4         PTH        2.17inch (55.18mm)
+T3      20mil (0.508mm)                                           Round             2         PTH        0.23inch (5.72mm)
+T4      28mil (0.7mm)                                             Round             2         PTH        0.54inch (13.63mm)
+T5      32mil (0.8mm)                                             Round             24        PTH        5.75inch (146.02mm)
+T6      35mil (0.9mm)                                             Round             16        PTH        4.72inch (119.85mm)
+T7      39mil (1mm)                                               Round             4         PTH        4.00inch (101.49mm)
+T8      43mil (1.1mm)                                             Round             4         PTH        0.30inch (7.62mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              365
+
+Total Processing Time (hh:mm:ss) : 00:00:00

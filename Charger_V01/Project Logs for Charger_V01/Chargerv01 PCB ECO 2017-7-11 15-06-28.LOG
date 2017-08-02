@@ -1,4 +1,0 @@
-Removed Member From Class: ClassName=Charger_BIC_V01 Member=U5
-Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default
-Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default
-Added Member To Class: ClassName=Charger_BIC_V01 Member=Component U4 MAX846A
