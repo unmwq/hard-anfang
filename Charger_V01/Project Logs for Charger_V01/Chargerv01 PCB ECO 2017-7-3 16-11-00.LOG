@@ -1,0 +1,12 @@
+Change Component Comment : Designator=CON3 Old Comment=3.3V New Comment=CON3
+Change Component Comment : Designator=CON4 Old Comment=3.3V New Comment=CON4
+Change Component Comment : Designator=CON1 Old Comment=5V New Comment=CON1
+Change Component Comment : Designator=CON2 Old Comment=GND New Comment=CON2
+Change Component Designator: OldDesignator=CON1 NewDesignator=5V
+Change Component Designator: OldDesignator=CON2 NewDesignator=GND
+Change Component Designator: OldDesignator=CON3 NewDesignator=3.3
+Change Component Designator: OldDesignator=CON4 NewDesignator=3.3V
+Added Member To Class: ClassName=Charger_Power_V01 Member=Component 3.3 CON3
+Added Member To Class: ClassName=Charger_Power_V01 Member=Component 3.3V CON4
+Added Member To Class: ClassName=Charger_Power_V01 Member=Component 5V CON1
+Added Member To Class: ClassName=Charger_Power_V01 Member=Component GND CON2

@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WGA_IR_V11.PrjPCB]
+   Generated File[WGA_IR_V11-RoundHoles.TXT]
+   Generated File[WGA_IR_V11-SlotHoles.TXT]
+   Generated File[WGA_IR_V11.DRL]
+   Generated File[WGA_IR_V11.LDP]
+   Generated File[WGA_IR_V11.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:48:11 On 2017-02-13

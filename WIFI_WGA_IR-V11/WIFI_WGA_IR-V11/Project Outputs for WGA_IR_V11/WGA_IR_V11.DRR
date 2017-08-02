@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: WGA_IR_V11.PcbDoc   2017-02-13  11:48:11
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WGA_IR_V11-RoundHoles.TXT
+ASCII SlotHoles File : WGA_IR_V11-SlotHoles.TXT
+EIA File   : WGA_IR_V11.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          331              45.98 Inch (1167.89 mm)
+T2        13.78mil (0.35001mm)     Round          2                0.19 Inch (4.85 mm)
+T3        19.68mil (0.49987mm)     Round          18               8.06 Inch (204.74 mm)
+T4        30mil (0.762mm)          Round          3                0.20 Inch (5.08 mm)
+T5        31.5mil (0.8001mm)       Round          26               5.40 Inch (137.20 mm)
+T6        35.43mil (0.89992mm)     Round          11               2.82 Inch (71.60 mm)
+T7        39.37mil (1mm)           Round          2                0.40 Inch (10.20 mm)
+T8        39.37mil (1mm)           Slot           2                281.96 Inch (7161.89 mm)
+---------------------------------------------------------------------------
+Totals                                            395              345.02 Inch (8763.45 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

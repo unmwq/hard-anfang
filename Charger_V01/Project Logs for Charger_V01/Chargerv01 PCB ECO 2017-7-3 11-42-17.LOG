@@ -1,0 +1,50 @@
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TAJC227K010RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TAJC227K010RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHs"; Value = "Lead free / RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subcategory"; Value = "Tantalum Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Cost"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C40(C6032)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TAJC227K010RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TAJC227K010RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHs"; Value = "Lead free / RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subcategory"; Value = "Tantalum Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Cost"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0603ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subcategory"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Cost"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C41(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0603ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subcategory"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Cost"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=5V_IN Pin=C40-2
+Added Pin To Net: NetName=5V_IN Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Member To Class: ClassName=Charger_Power_V01 Member=Component C40 TAJC227K010RNJ
+Added Member To Class: ClassName=Charger_Power_V01 Member=Component C41 CC0603ZRY5V9BB104

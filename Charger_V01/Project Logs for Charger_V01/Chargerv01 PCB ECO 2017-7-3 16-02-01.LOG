@@ -1,0 +1,8 @@
+Change Component Comment : Designator=GND Old Comment=CON1 New Comment=GND
+Change Component Comment : Designator=VDD5 Old Comment=CON1 New Comment=V5
+Change Component Comment : Designator=VCC3 Old Comment=CON1 New Comment=VDD3
+Change Component Comment : Designator=VDD3 Old Comment=CON1 New Comment=VDD3
+Change Component Designator: OldDesignator=GND NewDesignator=CON2
+Change Component Designator: OldDesignator=VCC3 NewDesignator=CON3
+Change Component Designator: OldDesignator=VDD3 NewDesignator=CON4
+Change Component Designator: OldDesignator=VDD5 NewDesignator=CON1

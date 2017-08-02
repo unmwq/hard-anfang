@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VDD33 Pin=3.3V-1
+Removed Pin From Net: NetName=VDD33 Pin=JP4-2
+Added Pin To Net: NetName=VCC33 Pin=3.3V-1
+Added Pin To Net: NetName=VCC33 Pin=JP4-2
+Added Member To Class: ClassName=Charger_MCU_V01 Member=Component C6 CC0603ZRY5V9BB104

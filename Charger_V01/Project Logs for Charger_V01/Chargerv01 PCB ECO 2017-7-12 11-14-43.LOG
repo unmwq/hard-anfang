@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=B2+ Pin=JP1-5
+Removed Pin From Net: NetName=B2+ Pin=JP1-6
+Added Pin To Net: NetName=B2+ Pin=JP1-1
+Added Pin To Net: NetName=B2+ Pin=JP1-2
+Change Net Name : Old Net Name=B2+ New Net Name=B4+
+Added Pin To Net: NetName=B2+ Pin=JP1-5
+Added Pin To Net: NetName=B2+ Pin=JP1-6
+Added Net: Name=B2+

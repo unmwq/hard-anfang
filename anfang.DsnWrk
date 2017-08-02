@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Charger_V01\Charger_V01.PrjPcb
+[Project2]
+ProjectPath=suncontrol\PCB_Project1.PrjPCB
+[Project3]
+ProjectPath=WIFI_WGA_IR-V11\WIFI_WGA_IR-V11\WGA_IR_V11.PrjPCB
