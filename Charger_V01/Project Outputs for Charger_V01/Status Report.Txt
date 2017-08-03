@@ -9,4 +9,4 @@ From  : Project [Charger_V01.PrjPcb]
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 0:19:47 On 2017/8/3
+Finished Output Generation At 15:00:09 On 2017/8/3
